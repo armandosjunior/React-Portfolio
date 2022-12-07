@@ -1,4 +1,4 @@
-# Getting Started with Create React App :gear:
+# React App :bee:
 
 This project is a Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.
 
@@ -6,7 +6,7 @@ This project is a Node.js command-line application that takes in information abo
 ## **Steps to get started:**
 ```
 - npm i
-- node index.js
+- node server.js
 ```
 
 ## **Application Acceptance Criteria:**
@@ -38,7 +38,7 @@ WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter) 
 ```
 ## **Mock Up:**
-
+![This is an image](./public/s.png)
 
 ## **Technology used:**
 ```
@@ -50,5 +50,5 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ## **Steps for future development:**
 ```
 - add more Javascript!
-- successfully be able to add more than one employee
+- successfully be able to add more to the front end
 ```
