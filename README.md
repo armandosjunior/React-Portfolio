@@ -48,6 +48,8 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## **Steps for future development:**
 ```
-- add more Javascript!
-- successfully be able to add more to the front end
+- practice react syntax & running applications without errors.
+- inset my Javascript
+- correctly add more to the front end
+
 ```
