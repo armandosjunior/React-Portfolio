@@ -1,7 +1,6 @@
 # React App :bee:
 
-This project is a Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.
-
+This app was created to view a potential employee's deployed React portfolio to assess whether they are a good candidate for an open position
 
 ## **Steps to get started:**
 ```
